@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Eivind\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Eivind\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Tower-Defence-Game.950523886.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Eivind\Documents\Development\Unity\Tower-Defence-Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="BuildingController.cs" t="Include" />
+          <e p="CameraController.cs" t="Include" />
+          <e p="Destroyer.cs" t="Include" />
+          <e p="Enemy.cs" t="Include" />
+          <e p="GameController.cs" t="Include" />
+          <e p="Gizmo.cs" t="Include" />
+          <e p="GridSpawner.cs" t="Include" />
+          <e p="Orbit.cs" t="Include" />
+          <e p="Platform.cs" t="Include" />
+          <e p="Projectile.cs" t="Include" />
+          <e p="Shop.cs" t="Include" />
+          <e p="Spawner.cs" t="Include" />
+          <e p="Tower" t="Include">
+            <e p="Gunner.cs" t="Include" />
+            <e p="ThunderDome.cs" t="Include" />
+            <e p="Tower.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="Tower-Defence-Game.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
